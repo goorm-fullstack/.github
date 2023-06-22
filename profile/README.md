@@ -9,8 +9,3 @@
   + [김경규](https://github.com/WhiteKIM), [문소희](https://github.com/soheetech), [배진환](https://github.com/JinhwanB), [이정원](https://github.com/location132)
   + 개발 목적: CRUD 실습, 협업 경험 쌓기
   + 개발 기간: 2023.06.28~2023.06.30
-
-<br />
-
----
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoorm-fullstack&count_bg=%23aaaaaa&title_bg=%23aaaaaa&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
