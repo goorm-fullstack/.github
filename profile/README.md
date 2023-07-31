@@ -20,5 +20,5 @@
 ## 📁 Study
 - [**knightsInstagram**](https://github.com/goorm-fullstack/knightsInstagram)
   + ☁ 2차 스터디 5조 구름기사단: (7/31~8/13) 실습 과제 - 인스타그램 클론코딩
-  + [문소희](https://github.com/soheetech), [박지국](https://github.com/parkjikuk), [이동규](https://github.com/LEE-Donggyu), [전민종](https://github.com/yss1902), [한세라](https://github.com/hansera), 
+  + [문소희](https://github.com/soheetech), [박지국](https://github.com/parkjikuk), [이동규](https://github.com/LEE-Donggyu), [전민종](https://github.com/yss1902), [한세라](https://github.com/hansera)
   + **과제 기간:** 2023.07.31~2023.08.13
