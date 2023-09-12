@@ -18,6 +18,6 @@
 
 | 프로젝트명 | 프로젝트 소개 | 참여자 |
 | :- | :- | :- |
-| [**RevengersIDE**](https://github.com/goorm-fullstack/RevengersIDE) | 💻 3차 스터디 11조 리벤져스: Web IDE 제작 | [김경규](https://github.com/WhiteKIM), [문소희](https://github.com/soheetech), [박지국](https://github.com/parkjikuk), [배진환](https://github.com/JinhwanB), [이동규](https://github.com/LEE-Donggyu), [전민종](https://github.com/yss1902) |
+| [**RevengersIDE**](https://github.com/goorm-fullstack/RevengersIDE) | ☁ 3차 스터디 11조 리벤져스: Web IDE 제작 | [김경규](https://github.com/WhiteKIM), [문소희](https://github.com/soheetech), [박지국](https://github.com/parkjikuk), [배진환](https://github.com/JinhwanB), [이동규](https://github.com/LEE-Donggyu), [전민종](https://github.com/yss1902) |
 | [**knightsNetflix**](https://github.com/goorm-fullstack/knightsNetflix) | ☁ 2차 스터디 5조 구름기사단: 넷플릭스 클론코딩 | [문소희](https://github.com/soheetech), [박지국](https://github.com/parkjikuk), [이동규](https://github.com/LEE-Donggyu), [전민종](https://github.com/yss1902), [한세라](https://github.com/hansera) |
 | [**knightsInstagram**](https://github.com/goorm-fullstack/knightsInstagram) | ☁ 2차 스터디 5조 구름기사단: 인스타그램 클론코딩 | [문소희](https://github.com/soheetech), [박지국](https://github.com/parkjikuk), [이동규](https://github.com/LEE-Donggyu), [전민종](https://github.com/yss1902), [한세라](https://github.com/hansera) |
