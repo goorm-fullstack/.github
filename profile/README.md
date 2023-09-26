@@ -7,7 +7,6 @@
 
 | 프로젝트명 | 프로젝트 소개 | 참여자 |
 | :- | :- | :- |
-| [**ArtRoom**](https://github.com/goorm-fullstack/Artroom) | 🎨 3차 스터디 11조 리벤져스 프로젝트: ArtRoom | [김경규](https://github.com/WhiteKIM), [문소희](https://github.com/soheetech), [박지국](https://github.com/parkjikuk), [배진환](https://github.com/JinhwanB), [이동규](https://github.com/LEE-Donggyu), [전민종](https://github.com/yss1902) |
 | [**GoormHotel**](https://github.com/goorm-fullstack/GoormHotel) | 🏰 3차 스터디 11조 리벤져스 프로젝트: 구름 호텔 | [김경규](https://github.com/WhiteKIM), [문소희](https://github.com/soheetech), [박지국](https://github.com/parkjikuk), [배진환](https://github.com/JinhwanB), [이동규](https://github.com/LEE-Donggyu), [전민종](https://github.com/yss1902) |
 | [**Introduce3355**](https://github.com/goorm-fullstack/Introduce3355) | (💻Web버전) 1차 스터디 3조 삼삼오오 소개 페이지 | [김경규](https://github.com/WhiteKIM), [문소희](https://github.com/soheetech), [배진환](https://github.com/JinhwanB), [이정원](https://github.com/location132) |
 | [**Introduce3355-App**](https://github.com/goorm-fullstack/Introduce3355-App) | (📱App버전) 1차 스터디 3조 삼삼오오 소개 페이지 | [김경규](https://github.com/WhiteKIM), [문소희](https://github.com/soheetech), [배진환](https://github.com/JinhwanB), [이정원](https://github.com/location132) |
